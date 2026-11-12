@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Diba Hashemi"
 title_separator          : "-"
 name                     : &name "Diba Hashemi"
-description              : &description "PhD student at EPFL researching efficient and capable langauge models"
+description              : &description "PhD student at EPFL researching efficient language model architectures"
 url                      : https://dibahme.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Diba Hashemi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at MLO lab, EPFL"
+  bio              : "PhD student at MLO lab, EPFL. Pretraining team at Mistral AI."
   location         : "Lausanne, Switzerland"
   employer         : "EPFL"
   uri              : # URL
